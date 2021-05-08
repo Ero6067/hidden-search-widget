@@ -6,8 +6,7 @@ Uses Javascript, HTML, CSS
 
 # Screenshot
 
-![Example Page](/images/project-example1.jpg)
-![Example Page](/images/project-example2.jpg)
+![Example Page](/images/project-example.gif)
 
 # Features
 
@@ -16,7 +15,7 @@ Uses Javascript, HTML, CSS
 # Run
 
 ```sh
-- git clone https://github.com/Ero6067/hidde-search-widget.git
+- git clone https://github.com/Ero6067/hidden-search-widget.git
 ```
 
 Run App
