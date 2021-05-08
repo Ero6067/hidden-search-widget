@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Hidden Search Widget
 
 Written by Kris Lafrance
 
@@ -6,16 +6,17 @@ Uses Javascript, HTML, CSS
 
 # Screenshot
 
-![Example Page](/images/project-example.jpg)
+![Example Page](/images/project-example1.jpg)
+![Example Page](/images/project-example2.jpg)
 
 # Features
 
-- PROJECT features
+- Clickable form button that exands and collapses
 
 # Run
 
 ```sh
-- git clone https://github.com/Ero6067/PROJECT.git
+- git clone https://github.com/Ero6067/hidde-search-widget.git
 ```
 
 Run App

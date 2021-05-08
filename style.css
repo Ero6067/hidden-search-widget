@@ -53,5 +53,6 @@ body {
 }
 
 .search.active .btn {
-  transform: translateX(198px);
+  transform: scaleX(198px);
+  left: auto;
 }
